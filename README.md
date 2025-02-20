@@ -1,7 +1,6 @@
 ## Привет! 👋
-### Меня зовут Максим Белокур. 
+### Меня зовут Максим Белокур и я Аналитик данных.
 
->  Я дата аналитик. \
 >  🔭 В данный момент активно ищу работу. 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
