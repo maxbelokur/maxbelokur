@@ -10,7 +10,7 @@
 
 ### КОНТАКТЫ:
 tg:  @MVBelokur \
-:iphone:  +7 927 782-00-07 \
+:iphone:  +7 919 819-85-80 \
 :envelope:  mv.belokur@yandex.ru
 
 
